@@ -2,7 +2,7 @@
 
 ## SQL 고득점 Kit
 
-1.SELECT
+### 1.[SELECT](https://github.com/honghyelim/Programmers_sql/blob/main/select.md)
 - 모든 레코드 조회하기
 - 역순 정렬하기
 - 아픈 동물 찾기
