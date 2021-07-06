@@ -1,7 +1,11 @@
 # 1. SQLite3
 
 ### SQLite3 사용
-### 1) 기초
+### 1) [기초](https://github.com/honghyelim/ALL_SQL/blob/main/sqlite_1.ipynb)
+- DB 연결
+- Table 생성
+- 쿼리문 변결하여 출력
+- Table 삭제
 
 ---------------------------------------
 # 2. Programmers_sql
